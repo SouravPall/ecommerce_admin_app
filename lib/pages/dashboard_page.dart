@@ -3,6 +3,7 @@ import 'package:ecommerce_admin_app/widgets/dashboard_item_view.dart';
 import 'package:flutter/material.dart';
 
 class DashboardPage extends StatelessWidget {
+  static const routeName = '/dashboard-page';
   const DashboardPage({Key? key}) : super(key: key);
 
   @override
